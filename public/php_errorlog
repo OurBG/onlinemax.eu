@@ -1,0 +1,6 @@
+[17-Nov-2016 08:42:18 CST6CDT] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/our/public_html/onlinemax.eu/public/index.php on line 50
+[17-Nov-2016 19:36:53 UTC] PHP Fatal error:  Class 'Controller' not found in /home/our/public_html/onlinemax.eu/app/Http/Controllers/Actors.php on line 8
+[17-Nov-2016 19:38:28 UTC] PHP Fatal error:  Class 'Appl\Controller' not found in /home/our/public_html/onlinemax.eu/app/Http/Controllers/Actors.php on line 7
+[17-Nov-2016 19:38:34 UTC] PHP Fatal error:  Class 'App\Controller' not found in /home/our/public_html/onlinemax.eu/app/Http/Controllers/Actors.php on line 7
+[17-Nov-2016 19:40:08 UTC] PHP Fatal error:  Class 'App\Controller' not found in /home/our/public_html/onlinemax.eu/app/Http/Controllers/Actors.php on line 10
+[17-Nov-2016 19:43:26 UTC] PHP Fatal error:  Class 'Controller' not found in /home/our/public_html/onlinemax.eu/app/Http/Controllers/Actors.php on line 8
